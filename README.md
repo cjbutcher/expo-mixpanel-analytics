@@ -1,6 +1,8 @@
 Expo Mixpanel Analytics
 =========
 
+Original repo @codekadiya/expo-mixpanel-analytics is no longer maintained, so I've compiled all open PRs into this library.
+
 Mixpanel integration for use with React Native apps built on Expo.
 
 ## Installation
